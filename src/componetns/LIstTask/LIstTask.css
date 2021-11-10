@@ -1,0 +1,21 @@
+.task{
+ 
+}
+.delete{
+    cursor: pointer;
+}
+.delete:hover{
+    color: red;
+}
+.check{
+    float: left;
+}
+.closed{
+    text-decoration: line-through;
+}
+.table{
+    width: 1400px;
+}
+.no__todos{
+    text-align: center;
+}
